@@ -1,1 +1,1 @@
-# pandas-numpy-E-commerce-guide
+# pandas-numpy-guide
