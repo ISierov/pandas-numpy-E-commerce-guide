@@ -1,0 +1,7 @@
+OrderID,ProductID,Category,ProductName,Quantity,UnitPrice,UnitCost,Rating,Region
+10248,72,Beverages,Beverage 1,10,12.4,8.5,4.5,Europe
+10248,45,Bakery,Bakery 1,5,6.5,4,4.2,Europe
+10249,14,Meat,Meat 1,9,15.2,10.5,4.8,Europe
+10249,51,Produce,Produce 1,40,10,7.5,3.9,Europe
+10250,41,Dairy,Dairy 1,12,8,5.5,4.2,South America
+10250,76,Canned Goods,Canned Goods 1,24,16.8,11.5,4.6,South America
