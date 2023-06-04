@@ -1,4 +1,4 @@
-def chech_answer():
+def check_answer():
 
     answer = input('The total number of bytes used: ')
     if answer != '500516':
